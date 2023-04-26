@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c22cc745.css",
+    "main.js": "/react-portfolio/static/js/main.30e28ae7.js",
+    "static/media/movie.png": "/react-portfolio/static/media/movie.a85c02b3f56c46034f12.png",
+    "static/media/trivia.png": "/react-portfolio/static/media/trivia.1bcb7982da36337b745e.png",
+    "static/media/planner.png": "/react-portfolio/static/media/planner.a3fb0269d8ce76f47fec.png",
+    "static/media/generator.png": "/react-portfolio/static/media/generator.7d6c0fc5f4ea7e002b24.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.746df82f5b9a0ec66135.png",
+    "static/media/quiz.png": "/react-portfolio/static/media/quiz.a7f5d5a02830e15ef9a6.png",
+    "static/media/iconmonstr-github-1.svg": "/react-portfolio/static/media/iconmonstr-github-1.04be58c17b3d5e9744424d414240dd85.svg",
+    "static/media/iconmonstr-twitter-3.svg": "/react-portfolio/static/media/iconmonstr-twitter-3.ca6dab938465408e461395a6db99ef70.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/iconmonstr-linkedin-3.svg": "/react-portfolio/static/media/iconmonstr-linkedin-3.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "main.c22cc745.css.map": "/react-portfolio/static/css/main.c22cc745.css.map",
+    "main.30e28ae7.js.map": "/react-portfolio/static/js/main.30e28ae7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22cc745.css",
+    "static/js/main.30e28ae7.js"
+  ]
+}
