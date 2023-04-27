@@ -1,13 +1,9 @@
-import Topnav from "./componenets/Navbar";
-import About from "./componenets/About"
-import Footer from "./componenets/Footer"
+import Container from "./componenets/Container"
 
 function App() {
   return (
    <>
-   <Topnav />
-   <About />
-   <Footer />
+   <Container />
    </>
   );
 }

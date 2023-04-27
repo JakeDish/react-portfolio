@@ -7,14 +7,19 @@ function about() {
   return (
     <div style={{ display: "block", width: 1000, padding: 30, marginLeft: 30 }}>
       <h4>Quality Assurance Professional</h4>
-      
-      <img width="300" height="300" src="https://images.nintendolife.com/cfb53259066c7/off-model-mario.large.jpg" alt="portrait of the developer as a young man"></img>
-      
+
+      <img
+        width="300"
+        height="300"
+        src="https://images.nintendolife.com/cfb53259066c7/off-model-mario.large.jpg"
+        alt="portrait of the developer as a young man"
+      ></img>
+
       <Row>
         <Col
           style={{
             backgroundColor: "grey",
-            class: "me-3"
+            class: "me-3",
           }}
         >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

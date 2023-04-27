@@ -2,16 +2,24 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import Trivia from '../../assets/trivia.png'
-import Movie from '../../assets/movie.png'
-import Weather from '../../assets/weather.png'
-import Planner from '../../assets/planner.png'
-import Quiz from '../../assets/quiz.png'
-import Generator from '../../assets/generator.png'
+import Trivia from "../assets/trivia.png";
+import Movie from "../assets/movie.png";
+import Weather from "../assets/weather.png";
+import Planner from "../assets/planner.png";
+import Quiz from "../assets/quiz.png";
+import Generator from "../assets/generator.png";
 
 function portfolio() {
   return (
-    <div style={{ display: "block", width: 1400, padding: 30, marginLeft: 30 }}>
+    <div
+      style={{
+        backgroundColor: "eggshell",
+        display: "block",
+        width: 1400,
+        padding: 30,
+        marginLeft: 30,
+      }}
+    >
       <h4>Previous Projects</h4>
       <Row>
         <Col>
@@ -75,6 +83,7 @@ function portfolio() {
         </Col>
       </Row>
     </div>
-  );}
+  );
+}
 
-export default portfolio
+export default portfolio;
