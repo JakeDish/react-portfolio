@@ -63,9 +63,9 @@ function portfolio() {
       </Row>
       <Row>
         <Col>
-          <a href="https://jakedish.github.io/code-quiz/">
+          <a href="https://matchmakerdating.herokuapp.com/">
             <img height="700" width="650" src={Quiz} alt="Code Quiz"></img>
-            <a href="https://github.com/JakeDish/code-quiz">Code Quiz</a>
+            <a href="https://github.com/JakeDish/date-app">MathcMaker</a>
           </a>
         </Col>
         <Col>
